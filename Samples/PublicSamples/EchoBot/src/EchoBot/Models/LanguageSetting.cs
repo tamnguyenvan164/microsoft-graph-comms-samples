@@ -11,7 +11,7 @@ namespace EchoBot.Models
     /// <summary>
     /// The setting body.
     /// </summary>
-    public class TranslationSetting
+    public class LanguageSetting
     {
         public string? MeetingId { get; set; }
 
